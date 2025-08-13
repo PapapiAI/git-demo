@@ -7,6 +7,6 @@ public class GitDemo {
         System.out.println("Hello gitHub3");
         System.out.println("Hello gitHub4");
         System.out.println("branch feature/us1");
-        System.out.println("modified branch feature/us2");
+        System.out.println("new branch feature/us2");
     }
 }
